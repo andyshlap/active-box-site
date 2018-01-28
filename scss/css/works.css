@@ -1,0 +1,9 @@
+.work-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+
+.work-container {
+  width: 24.9%; }
+
+/*# sourceMappingURL=works.css.map */

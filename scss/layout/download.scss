@@ -1,0 +1,22 @@
+
+.download-section {
+  padding: 90px 0;
+  text-align: center;
+
+  &__cta {
+    color: $download-section-text-color;
+    font-family: $text-font;
+    font-size: 140%;
+  }
+
+  &__text {
+    font-size: 65%;
+    font-weight: bold;
+    margin-top: 20px;
+    text-transform: uppercase;
+  }
+
+  &__btn {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,10 @@
+.features-section {
+  padding: 100px 0; }
+  .features-section .container {
+    display: flex;
+    flex-wrap: wrap; }
+    .features-section .container .feature {
+      width: 33%;
+      text-align: center; }
+
+/*# sourceMappingURL=features.css.map */
